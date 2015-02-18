@@ -1,5 +1,5 @@
-# hello-moon
-Lorem ipsum hello moon
+# hello-world
+Lorem ipsum hello ~~moon~~ world.
 
 ## About
-Something went wrong, I guess.
+Something went somehow right, I guess.
