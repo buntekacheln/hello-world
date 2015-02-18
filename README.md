@@ -1,5 +1,5 @@
-# hello-world
-Lorem ipsum hello world
+# hello-moon
+Lorem ipsum hello moon
 
 ## About
-Blinking .gifs and a fresh 'under construction'-sign, while anonying music plays in the background. Ahh, don't forget comic sans.
+Something went wrong, I guess.
